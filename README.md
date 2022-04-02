@@ -1,6 +1,6 @@
 # Parallel Twitter in Postgres
 
-![](https://github.com/DestrosCMCi/twitter_postgres_parallel/workflows/tests_normalized/badge.svg)
+![](https://github.com/DestrosCMC/twitter_postgres_parallel/workflows/tests_normalized/badge.svg)
 
 ![](https://github.com/DestrosCMC/twitter_postgres_parallel/workflows/tests_normalized_parallel/badge.svg)
 
