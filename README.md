@@ -16,6 +16,8 @@ In this assignment, you will make your data loading into postgres significantly 
 Notice that many of the test cases above are already passing;
 you will have to ensure that they remain passing as you complete the tasks below.
 
+Collaborated with Dustin
+
 ## Tasks
 
 ### Setup
