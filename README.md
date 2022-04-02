@@ -1,16 +1,16 @@
 # Parallel Twitter in Postgres
 
-![](https://github.com/mikeizbicki/twitter_postgres_parallel/workflows/tests_normalized/badge.svg)
+![](https://github.com/DestrosCMCi/twitter_postgres_parallel/workflows/tests_normalized/badge.svg)
 
-![](https://github.com/mikeizbicki/twitter_postgres_parallel/workflows/tests_normalized_parallel/badge.svg)
+![](https://github.com/DestrosCMC/twitter_postgres_parallel/workflows/tests_normalized_parallel/badge.svg)
 
-![](https://github.com/mikeizbicki/twitter_postgres_parallel/workflows/tests_normalized_batch/badge.svg)
+![](https://github.com/DestrosCMC/twitter_postgres_parallel/workflows/tests_normalized_batch/badge.svg)
 
-![](https://github.com/mikeizbicki/twitter_postgres_parallel/workflows/tests_normalized_batch_parallel/badge.svg)
+![](https://github.com/DestrosCMC/twitter_postgres_parallel/workflows/tests_normalized_batch_parallel/badge.svg)
 
-![](https://github.com/mikeizbicki/twitter_postgres_parallel/workflows/tests_denormalized/badge.svg)
+![](https://github.com/DestrosCMC/twitter_postgres_parallel/workflows/tests_denormalized/badge.svg)
 
-![](https://github.com/mikeizbicki/twitter_postgres_parallel/workflows/tests_denormalized_parallel/badge.svg)
+![](https://github.com/DestrosCMC/twitter_postgres_parallel/workflows/tests_denormalized_parallel/badge.svg)
 
 In this assignment, you will make your data loading into postgres significantly faster using batch loading and parallel loading.
 Notice that many of the test cases above are already passing;
@@ -37,7 +37,7 @@ you will have to ensure that they remain passing as you complete the tasks below
 Bring up a fresh version of your containers by running the commands:
 ```
 $ docker-compose down
-$ docker-compose volume prune
+$ docker volume prune
 $ docker-compose up -d --build
 ```
 
